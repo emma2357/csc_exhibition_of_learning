@@ -381,3 +381,11 @@ body{
   background-color: hsl(var(--color-pink))
 }
 
+.details {
+  font-family: "Sintony", sans-serif;
+  color: hsl(var(--color-dark));
+  align-self: start;
+  margin: 0;
+  padding: 0;
+}
+
